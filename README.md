@@ -9,4 +9,6 @@
 ### STYLE
 
 <img src="https://img.shields.io/badge/STYLED-COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
