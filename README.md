@@ -15,6 +15,6 @@
 
 - [TeslaCloneCoding](https://youtu.be/qbBWyi4HhkU) 
 
-### How I study
+## How I study
 
 - [Velog](https://velog.io/@shackstack)
