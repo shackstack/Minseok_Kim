@@ -10,6 +10,11 @@
 
 <img src="https://img.shields.io/badge/PYTHON-61DAFB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
+
+## Portfolio 
+
+- [TeslaCloneCoding](https://youtu.be/qbBWyi4HhkU) 
+
 ### How I study
 
 - [Velog](https://velog.io/@shackstack)
