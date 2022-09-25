@@ -12,3 +12,4 @@
 
 ### How I study
 
+- [Velog](https://youtu.be/oAT4Or5_nkk/](https://velog.io/@shackstack)
