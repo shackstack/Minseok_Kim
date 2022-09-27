@@ -13,7 +13,7 @@
 
 ## Portfolio 
 
-- TeslaCloneCoding | [Youtube](https://youtu.be/qbBWyi4HhkU) [URL](https://front-final-eight.vercel.app/) 
+- TeslaCloneCoding | [Youtube](https://youtu.be/qbBWyi4HhkU) | [URL](https://front-final-eight.vercel.app/) 
 
 ## How I study
 
