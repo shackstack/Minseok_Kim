@@ -14,6 +14,7 @@
 ## Portfolio 
 
 - TeslaCloneCoding | [시연 영상](https://youtu.be/qbBWyi4HhkU) , [웹 주소](https://front-final-eight.vercel.app/) , [Github](https://github.com/shackstack/TeamProject_TeslaCloneCoding)
+- Earth,us(진행중) | [Github](https://github.com/Team-1-Final-Project/FE-Final-Project)
 - 동상 | SFM 모바일 앱 설계 공모전 
 - 장려상 | 제 3회 교내 주관 SW 경시대회 (python)
 - 장려상 | 제 8회 교내 주관 SW 경시대회 (python)
