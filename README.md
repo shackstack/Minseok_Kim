@@ -18,6 +18,10 @@
 - 장려상 | 제 3회 교내 주관 SW 경시대회 (python)
 - 장려상 | 제 8회 교내 주관 SW 경시대회 (python)
 
+## Language Skill
+
+- English | Opic IH
+
 ## How I study
 
 - [Velog](https://velog.io/@shackstack) 
@@ -27,6 +31,3 @@
 - CodeStates | PM bootcamp (2022.03~2022.06)
 - SpartaCodingClub | Front-end Innovation camp (2022.08~)
 
-## Language Skill
-
-- English | Opic IH
