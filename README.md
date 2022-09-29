@@ -26,3 +26,7 @@
 
 - CodeStates | PM bootcamp (2022.03~2022.06)
 - SpartaCodingClub | Front-end Innovation camp (2022.08~)
+
+## Language Skill
+
+- English | Opic IH
