@@ -13,7 +13,7 @@
 
 ## Portfolio 
 
-- TeslaCloneCoding | [Youtube](https://youtu.be/qbBWyi4HhkU) | [URL](https://front-final-eight.vercel.app/)
+- TeslaCloneCoding | 시연 영상 : [Youtube](https://youtu.be/qbBWyi4HhkU) | 웹사이트 : [URL](https://front-final-eight.vercel.app/) | Github:
 - 동상 | SFM 모바일 앱 설계 공모전 
 - 장려상 | 제 3회 교내 주관 SW 경시대회 (python)
 - 장려상 | 제 8회 교내 주관 SW 경시대회 (python)
