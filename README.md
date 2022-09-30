@@ -31,6 +31,6 @@
 ## Where I have learned
 
 - Sejong Univ. | 외식경영학 학사, [Smart Foodservice Management Track](https://lincplus.sejong.ac.kr/ko/society/smart/intro) 이수 (2016.03~2022.02)
-- CodeStates | PM bootcamp (2022.03~2022.06)
+- CodeStates | [PM bootcamp](https://www.codestates.com/course/pm) (2022.03~2022.06)
 - SpartaCodingClub | Front-end Innovation camp (2022.08~)
 
