@@ -8,7 +8,7 @@
 
 ### I have used this stack at least once
 
-<img src="https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
 
 
 ## Portfolio 
