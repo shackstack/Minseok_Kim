@@ -8,8 +8,8 @@
 
 <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwindcss,bootstrap,html,css,python,figma,git,github,js&perline=20"/>
-  <img src="https://img.shields.io/badge/AXIOS-F7DF1E?style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
+<img src="https://img.shields.io/badge/AXIOS-F7DF1E?style=for-the-badge&logo=axios&logoColor=white"/>
 
 
 
