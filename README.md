@@ -2,15 +2,13 @@
 
 ## TECH STACK
 
-### I can use skillfully this stack
+### 제가 주로 사용하고 잘 사용할 수 있는 스킬입니다.
 
 
 
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwindcss,bootstrap,html,css,python,figma,git,github,js&perline=20"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwindcss,figma,js&perline=20"/>
 </p>
-<img src="https://img.shields.io/badge/AXIOS-F7DF1E?style=for-the-badge&logo=axios&logoColor=white"/>
-
 
 
 ## Portfolio 
@@ -36,9 +34,3 @@
 - Sejong Univ. | 호텔관광대학 외식경영학 학사, [Smart Foodservice Management Track](https://lincplus.sejong.ac.kr/ko/society/smart/intro) 이수 (2016.03~2022.02)
 - CodeStates | [PM bootcamp](https://www.codestates.com/course/pm) (2022.03~2022.06)
 - SpartaCodingClub | [Front-end Innovation camp](https://innovationcampseoul.oopy.io/) (2022.08~)
-
-
-### I have used this stack at least once
-
-<img src="https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
-
