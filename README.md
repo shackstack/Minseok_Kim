@@ -7,7 +7,7 @@
 
 
 <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwindcss,figma,js&perline=20"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwindcss,figma&perline=20"/>
 </p>
 
 
