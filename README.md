@@ -37,4 +37,4 @@
 
 - Sejong Univ. | 호텔관광대학 외식경영학 학사, [Smart Foodservice Management Track](https://lincplus.sejong.ac.kr/ko/society/smart/intro) 이수 (2016.03~2022.02)
 - CodeStates | [PM bootcamp](https://www.codestates.com/course/pm) (2022.03~2022.06)
-- SpartaCodingClub | [Front-end Innovation camp](https://innovationcampseoul.oopy.io/) (2022.08~)
+- SpartaCodingClub | [Front-end Innovation camp](https://innovationcampseoul.oopy.io/) (2022.08~2022.11)
