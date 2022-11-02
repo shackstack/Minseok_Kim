@@ -30,7 +30,7 @@
 
 ## How I study
 
-- [Velog](https://velog.io/@shackstack) : 이노베이션 캠프(FE) 기간동안 운영한 블로그입니다. 학습정리 및 회고 용도로 사용해오고 있습니다.
+- [Velog](https://velog.io/@shackstack) : 이노베이션 캠프(FE) 기간부터 현재까지 운영중인 블로그입니다. 학습정리 및 회고 용도로 사용해오고 있습니다.
 - [네이버 블로그](https://blog.naver.com/kms1061) : PM 부트캠프 기간동안 운영한 블로그입니다. 학습정리 및 회고 용도로 사용하였습니다.
 
 ## Where I have learned
